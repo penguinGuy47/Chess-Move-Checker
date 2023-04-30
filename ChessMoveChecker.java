@@ -7,7 +7,7 @@ import java.util.Scanner;
  * A program for checking check moves Reads from a file of information and write
  * results to a separate file File names are obtained from the user
  * 
- * @author Mary Elaine Califf
+ * @author Mary Elaine Califf & Kaleb Liang
  */
 public class ChessMoveChecker
 {
