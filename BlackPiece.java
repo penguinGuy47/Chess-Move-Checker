@@ -1,7 +1,7 @@
 /**
  * Class for black pieces -- does not worry about which piece
  * 
- * @author Mary Elaine Califf
+ * @author Mary Elaine Califf & Kaleb Liang
  */
 public class BlackPiece extends ChessPiece
 {
